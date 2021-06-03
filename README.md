@@ -1,2 +1,3 @@
 # Lab-3
-Ejercicios prácticos de laboratorio 3-UBP
+-Ejercicios prácticos de laboratorio 3-
+-Universidad Blas Pascal
