@@ -53,10 +53,10 @@ Entonces ya ahi tengo la libreria instalada, tengo acceso a todos los paquetes q
 **-Pag oficial**   
 https://matplotlib.org/ 
 **-Marcadores y colores**
-https://interactivechaos.com/es/manual/tutorial-de-matplotlib/marcadores-y-colores#:~:text=Uno%20de%20los%20siguientes%20nombres,representa%20%22blue%22%2C%20azul) 
+https://interactivechaos.com/es/manual/tutorial-de-matplotlib/marcadores-y-colores#:~:text=Uno%20de%20los%20siguientes%20nombres,representa%20%22blue%22%2C%20azul/ 
 **-Personalizar gráfica**
-https://www.youtube.com/watch?v=0ZXv8gyjmws 
-https://www.youtube.com/watch?v=XEG4eh5l_qU&t=434s 
+https://www.youtube.com/watch?v=0ZXv8gyjmws/ 
+https://www.youtube.com/watch?v=XEG4eh5l_qU&t=434s/
 
 
 ***Integrantes***
