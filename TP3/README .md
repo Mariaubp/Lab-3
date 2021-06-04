@@ -1,4 +1,6 @@
-# Matplotlib
+
+
+![img](https://interactivechaos.com/sites/default/files/inline-images/tutorial_matplotlib.png)
 ## _Es una biblioteca completa para crear visualizaciones estáticas, animadas e interactivas en Python._
 
 Esta librería te permite :
@@ -26,16 +28,41 @@ Esta librería te permite :
 - El segundo es un grafico de barras que muestra el alumno y el porcentaje deparciles aprobados 
 
 
-## Instalar la libreria
+## Funcionamiento
 
-Para instalarla debes estar en un entorno virtual y crear la carpeta y el entorno y listo los arcivos con mkdir proyecto y depsues tengo que activar los permisos de winwos para descragar paquetes con Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process, luego cd.\Scripts\ y.\activate y python e instalo mi libreria con pip install matplotlib
-Si no pudo instalarlo con nuestras indicaciones les dejamos un link que le sera de mucha utilidad
-[link del blog](http://blog.espol.edu.ec/ccpg1001/descargas/matplotlib-graficas-instalar/#:~:text=c%3A%5C%3Epip%20install%20matplotlib&text=1.,una%20ventana%20como%20la%20mostrada.&text=La%20instrucci%C3%B3n%20descarga%20la%20versi%C3%B3n,esperar%20que%20termine%20el%20proceso. ) 
-## License
+Se debe tener instalado el entorno virtual, para crearlo
 
-MIT
+			py -m venv .\nombre\
 
-**Free Software, Hell Yeah!**
+Accedemos a él con cd nombre, activamos los permisos de Windows para luego poder descargar lo que necesitemos en el entorno, con el comando
+
+	Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process.
+
+Luego para poder acceder y activar el entorno virtual entramos a la carpeta Scripts que está dentro del venv creado, para activarlo
+		
+			                  .\activate
+
+Asi ya estoy dentro del entorno virtual creado
+Para instalar la libreria Matplotlib es mediante el comando
+
+				pip install matplotlib
+
+Entonces ya ahi tengo la libreria instalada, tengo acceso a todos los paquetes que vienen dentro de ella, los puedo ver con el comando 
+
+## FUENTES 
+**-Pag oficial**   
+https://matplotlib.org/ 
+**-Marcadores y colores**
+https://interactivechaos.com/es/manual/tutorial-de-matplotlib/marcadores-y-colores#:~:text=Uno%20de%20los%20siguientes%20nombres,representa%20%22blue%22%2C%20azul) 
+**-Personalizar gráfica**
+https://www.youtube.com/watch?v=0ZXv8gyjmws 
+https://www.youtube.com/watch?v=XEG4eh5l_qU&t=434s 
+
+
+***Integrantes***
+**-Florencia Fernandez**
+**-Constanza Gigli**
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
