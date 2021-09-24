@@ -27,14 +27,6 @@ Para instalar la libreria Matplotlib es mediante el comando</p>
 <pre><code>            pip install matplotlib
 </code></pre>
 <p class="has-line-data" data-line-start="49" data-line-end="50">Entonces ya ahi tengo la libreria instalada, tengo acceso a todos los paquetes que vienen dentro de ella, los puedo ver con el comando</p>
-<h2 class="code-line" data-line-start=51 data-line-end=52 ><a id="FUENTES_51"></a>FUENTES</h2>
-<p class="has-line-data" data-line-start="52" data-line-end="59"><strong>-Pag oficial</strong><br>
-<a href="https://matplotlib.org/">https://matplotlib.org/</a><br>
-<strong>-Marcadores y colores</strong><br>
-<a href="https://interactivechaos.com/es/manual/tutorial-de-matplotlib/marcadores-y-colores#:~:text=Uno%20de%20los%20siguientes%20nombres,representa%20%22blue%22%2C%20azul/">https://interactivechaos.com/es/manual/tutorial-de-matplotlib/marcadores-y-colores#:~:text=Uno de los siguientes nombres,representa &quot;blue&quot;%2C azul/</a><br>
-<strong>-Personalizar gráfica</strong><br>
-<a href="https://www.youtube.com/watch?v=0ZXv8gyjmws/">https://www.youtube.com/watch?v=0ZXv8gyjmws/</a><br>
-<a href="https://www.youtube.com/watch?v=XEG4eh5l_qU&amp;t=434s/">https://www.youtube.com/watch?v=XEG4eh5l_qU&amp;t=434s/</a></p>
 <p class="has-line-data" data-line-start="61" data-line-end="64"><strong><em>Integrantes</em></strong><br>
 <strong>-Florencia Fernandez</strong><br>
 <strong>-Constanza Gigli</strong></p>
