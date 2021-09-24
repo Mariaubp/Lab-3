@@ -15,11 +15,11 @@
 <ul>
 <h2 class="code-line" data-line-start=30 data-line-end=31 ><a id="Funcionamiento_30"></a>El proyecto </h2>
 <p class="has-line-data" data-line-start="32" data-line-end="33">Lo primero es tener creado el entorno virtual donde trabajaremos, para allí instalar todo lo necesario para su funcionamiento, donde haremos:</p>
-<pre><code>        pip install request
+<pre><code>       pip install request
 </code></pre>     
 <pre><code>       pip install reportLab
 </code></pre>
-<pre><code>                          pip install simplejson
+<pre><code>       pip install simplejson
 </code></pre>
 <h2 class="code-line" data-line-start=30 data-line-end=31 ><a id="Funcionamiento_30"></a>Funcionamiento</h2>
 <p class="has-line-data" data-line-start="32" data-line-end="33">Una vez ya todo instalado, tenemos los codigo .py establecidos, necesarios para su funcionamiento, el cual gracias a la libreria ReportLab generara un pdf con la informacion solicitada,Para ejecutarlo lo hacemos ocn el comando.</p>
