@@ -13,21 +13,18 @@
 <h2 class="code-line" data-line-start=22 data-line-end=23 ><a id="Nuestro_Trabajo_22"></a>Nuestra Consigna </h2>
 <p class="has-line-data" data-line-start="24" data-line-end="25">El objetivo es entrega un cuadro con los tres países del mundo que mas contagios tiene en un determinado periodo de tiempo, con el nombre del país, la cantidad de contagiados en ese periodo y la cantidad de muertos.</p>
 <ul>
+<h2 class="code-line" data-line-start=30 data-line-end=31 ><a id="Funcionamiento_30"></a>El proyecto </h2>
+<p class="has-line-data" data-line-start="32" data-line-end="33">Lo primero es tener creado el entorno virtual donde trabajaremos, para allí instalar todo lo necesario para su funcionamiento, donde haremos:</p>
+<pre><code>        pip install request
+</code></pre>     
+<pre><code>       pip install reportLab
+</code></pre>
+<pre><code>                          pip install simplejson
+</code></pre>
 <h2 class="code-line" data-line-start=30 data-line-end=31 ><a id="Funcionamiento_30"></a>Funcionamiento</h2>
-<p class="has-line-data" data-line-start="32" data-line-end="33">Se debe tener instalado el entorno virtual, para crearlo</p>
-<pre><code>        py -m venv .\nombre\
-</code></pre>
-<p class="has-line-data" data-line-start="36" data-line-end="37">Accedemos a él con cd nombre, activamos los permisos de Windows para luego poder descargar lo que necesitemos en el entorno, con el comando</p>
-<pre><code>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process.
-</code></pre>
-<p class="has-line-data" data-line-start="40" data-line-end="41">Luego para poder acceder y activar el entorno virtual entramos a la carpeta Scripts que está dentro del venv creado, para activarlo</p>
-<pre><code>                          .\activate
-</code></pre>
-<p class="has-line-data" data-line-start="44" data-line-end="46">Asi ya estoy dentro del entorno virtual creado<br>
-Para instalar la libreria Matplotlib es mediante el comando</p>
-<pre><code>            pip install matplotlib
-</code></pre>
-<p class="has-line-data" data-line-start="49" data-line-end="50">Entonces ya ahi tengo la libreria instalada, tengo acceso a todos los paquetes que vienen dentro de ella, los puedo ver con el comando</p>
+<p class="has-line-data" data-line-start="32" data-line-end="33">Una vez ya todo instalado, tenemos los codigo .py establecidos, necesarios para su funcionamiento, el cual gracias a la libreria ReportLab generara un pdf con la informacion solicitada,Para ejecutarlo lo hacemos ocn el comando.</p>
+ <pre><code>        python main.py
+</code></pre> 
 <p class="has-line-data" data-line-start="61" data-line-end="64"><strong><em>Integrantes</em></strong><br>
 <strong>-Florencia Fernandez</strong><br>
 <strong>-Constanza Gigli</strong></p>
