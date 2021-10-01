@@ -26,6 +26,7 @@
  <a href="Matplotlib">https://www.delftstack.com/es/howto/matplotlib/plot-table-using-matplotlib/</a><br>
  <a href="Python">https://docs.python.org/es/3/tutorial/</a><br>
  <a href="Tutorial python">https://j2logo.com/python/tutorial/tipo-list-python/</a><br>
+ <ul>
 <p class="has-line-data" data-line-start="11" data-line-end="12"><strong><em>Integrantes</em></strong><br>
 <strong>-Florencia Fernandez</strong><br>
 <strong>-Constanza Gigli</strong></p>
