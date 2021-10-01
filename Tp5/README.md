@@ -1,6 +1,11 @@
 <p class="has-line-data" data-line-start="2" data-line-end="3"><img src="MicrosoftTeams-image.png" alt="img"></p>
+ <ul>
+<p class="has-line-data" data-line-start="11" data-line-end="12"><strong><em>Integrantes</em></strong><br>
+<strong>-Florencia Fernandez</strong><br>
+<strong>-Constanza Gigli</strong></p>
+  <ul>
 <p class="has-line-data" data-line-start="52" data-line-end="59"><strong>-Link de la api :</strong><br>
-<a href="covid19api">https://covid19api.com/</a><br>
+<a href="https://covid19api.com/">https://covid19api.com/</a><br>
 <h2 class="code-line" data-line-start=3 data-line-end=4 ><a id="_Es_una_biblioteca_completa_para_crear_visualizaciones_estticas_animadas_e_interactivas_en_Python__3"></a><em>Es una api que ofrece datos sobre el coronavirus en el mundo</em></h2>
 <p class="has-line-data" data-line-start="5" data-line-end="6">Esta api ofrece : </p>
 <ul>
@@ -22,11 +27,7 @@
  </ul>
 <h2 class="code-line" data-line-start=11 data-line-end=12 ><a id="Crear_11">Biografia</a></h2>
 <ul>
- <a href="Matplotlib">https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.table.html</a><br>
- <a href="Matplotlib">https://www.delftstack.com/es/howto/matplotlib/plot-table-using-matplotlib/</a><br>
- <a href="Python">https://docs.python.org/es/3/tutorial/</a><br>
- <a href="Tutorial python">https://j2logo.com/python/tutorial/tipo-list-python/</a><br>
- <ul>
-<p class="has-line-data" data-line-start="11" data-line-end="12"><strong><em>Integrantes</em></strong><br>
-<strong>-Florencia Fernandez</strong><br>
-<strong>-Constanza Gigli</strong></p>
+ <a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.table.html">https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.table.html</a><br>
+ <a href="https://www.delftstack.com/es/howto/matplotlib/plot-table-using-matplotlib/">https://www.delftstack.com/es/howto/matplotlib/plot-table-using-matplotlib/</a><br>
+ <a href="https://docs.python.org/es/3/tutorial/">https://docs.python.org/es/3/tutorial/</a><br>
+ <a href="https://j2logo.com/python/tutorial/tipo-list-python/">https://j2logo.com/python/tutorial/tipo-list-python/</a><br>
