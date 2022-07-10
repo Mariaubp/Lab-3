@@ -5,12 +5,13 @@
   <ul>
 <p class="has-line-data" data-line-start="11" data-line-end="12"><strong>-Link de la api :</strong><br>
 <a href="https://fakestoreapi.com//">Fakestoreapi.com</a><br>
-<h2 class="code-line" data-line-start=3 data-line-end=4 ><a id="_Es_una_biblioteca_completa_para_crear_visualizaciones_estticas_animadas_e_interactivas_en_Python__3"></a><em>Fake Store API</em></h2>
-<p class="has-line-data" data-line-start="5" data-line-end="6">Es una REST API en línea gratuita que puede usar  datos pseudo-reales para sitio web de compras sin ejecutar ningún código del lado del servidor </p>
+<h2 class="code-line" data-line-start=11 data-line-end=12 ><a id="Crear_11">Fake Store API</a></h2>
+<ul>
+<li class="has-line-data" data-line-start="12" data-line-end="13">s una REST API en línea gratuita que puede usar  datos pseudo-reales para sitio web de compras sin ejecutar ningún código del lado del servidor </li>
 <h2 class="code-line" data-line-start=11 data-line-end=12 ><a id="Crear_11">REST API</a></h2>
 <ul>
 <li class="has-line-data" data-line-start="12" data-line-end="13">Es un estilo arquitectónico para una  API que usa solicitudes HTTP para acceder y usar datos. Esos datos se pueden utilizar para los tipos de datos GET, PUT, POST y DELETE, que se refieren a la lectura, actualización, creación y eliminación de operaciones relacionadas con los recursos</li>
-<h2 class="code-line" data-line-start=22 data-line-end=23 ><a id="Nuestro_Trabajo_22"></a>Nuestra Consigna </h2>
+<h2 class="code-line" data-line-start=11 data-line-end=12 ><a id="Nuestro_Trabajo_22"></a>Nuestra Consigna </h2>
 <p class="has-line-data" data-line-start="24" data-line-end="25">El objetivo es entrega un cuadro con los tres países del mundo que mas contagios tiene en un determinado periodo de tiempo, con el nombre del país, la cantidad de contagiados en ese periodo y la cantidad de muertos.</p>
 <ul>
 <h2 class="code-line" data-line-start=30 data-line-end=31 ><a id="Funcionamiento_30"></a>El proyecto </h2>
