@@ -1,9 +1,9 @@
 # Sitio Web eCommerce con API
-<p class="has-line-data" data-line-start="11" data-line-end="12"><strong><em>Integrantes</em></strong><br>
-<strong>-Florencia Fernandez</strong><br>
-<strong>-Constanza Gigli</strong></p>
-  <ul>
-<p class="has-line-data" data-line-start="11" data-line-end="12"><strong>-Link de la api :</strong><br>
+Integrantes :
+**Florencia Fernandez**
+**, Constanza Gigli**
+
+-Link de la api :
 <a href="https://fakestoreapi.com//">Fakestoreapi.com</a><br>
 <h2 class="code-line" data-line-start=11 data-line-end=12 ><a id="Crear_11">Fake Store API</a></h2>
 <ul>
