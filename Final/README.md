@@ -6,6 +6,7 @@ Integrantes :
 -Link de la api :
 <a href="https://fakestoreapi.com/">https://fakestoreapi.com/</a><br>
 ## Fake Store API
+<p class="has-line-data" data-line-start="2" data-line-end="3"><img src="logoFake.png" alt="img"></p>
 Es una REST API en línea gratuita que puede usar  datos pseudo-reales para sitio web de compras sin ejecutar ningún código del lado del servidor </li>
 ## ¿Que es REST API?
 Es un estilo arquitectónico para una  API que usa solicitudes HTTP para acceder y usar datos. Esos datos se pueden utilizar para los tipos de datos GET, PUT, POST y DELETE, que se refieren a la lectura, actualización, creación y eliminación de operaciones relacionadas con los recursos
