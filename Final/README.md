@@ -5,12 +5,10 @@ Integrantes :
 
 -Link de la api :
 <a href="https://fakestoreapi.com//">Fakestoreapi.com</a><br>
-<h2 class="code-line" data-line-start=11 data-line-end=12 ><a id="Crear_11">Fake Store API</a></h2>
-<ul>
-<li class="has-line-data" data-line-start="12" data-line-end="13">s una REST API en línea gratuita que puede usar  datos pseudo-reales para sitio web de compras sin ejecutar ningún código del lado del servidor </li>
-<h2 class="code-line" data-line-start=11 data-line-end=12 ><a id="Crear_11">REST API</a></h2>
-<ul>
-<li class="has-line-data" data-line-start="12" data-line-end="13">Es un estilo arquitectónico para una  API que usa solicitudes HTTP para acceder y usar datos. Esos datos se pueden utilizar para los tipos de datos GET, PUT, POST y DELETE, que se refieren a la lectura, actualización, creación y eliminación de operaciones relacionadas con los recursos</li>
+## Fake Store API
+Es una REST API en línea gratuita que puede usar  datos pseudo-reales para sitio web de compras sin ejecutar ningún código del lado del servidor </li>
+## ¿Que es REST API?
+Es un estilo arquitectónico para una  API que usa solicitudes HTTP para acceder y usar datos. Esos datos se pueden utilizar para los tipos de datos GET, PUT, POST y DELETE, que se refieren a la lectura, actualización, creación y eliminación de operaciones relacionadas con los recursos
 <h2 class="code-line" data-line-start=11 data-line-end=12 ><a id="Nuestro_Trabajo_22"></a>Nuestra Consigna </h2>
 <p class="has-line-data" data-line-start="24" data-line-end="25">El objetivo es entrega un cuadro con los tres países del mundo que mas contagios tiene en un determinado periodo de tiempo, con el nombre del país, la cantidad de contagiados en ese periodo y la cantidad de muertos.</p>
 <ul>
