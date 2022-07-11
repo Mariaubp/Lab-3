@@ -4,7 +4,7 @@ Integrantes :
 **, Constanza Gigli**
 
 -Link de la api :
-<a href="https://fakestoreapi.com//">Fakestoreapi.com</a><br>
+<a href="https://fakestoreapi.com/">https://fakestoreapi.com/</a><br>
 ## Fake Store API
 Es una REST API en línea gratuita que puede usar  datos pseudo-reales para sitio web de compras sin ejecutar ningún código del lado del servidor </li>
 ## ¿Que es REST API?
