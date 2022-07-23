@@ -1,15 +1,15 @@
-# Sitio Web eCommerce con API
+# Sitio Web eCommerce con API y base de datos 
 Integrantes :
 **Florencia Fernandez**
 **, Constanza Gigli**
 
 -Link de la api :
 <a href="https://www.frankfurter.app/">https://www.frankfurter.app/</a><br>
-## Fake Store API
+## Frankfurter API
  <img src="logoFrank.png" width="120">    
-Es una REST API en línea gratuita que puede usar  datos pseudo-reales para sitio web de compras sin ejecutar ningún código del lado del servidor </li>
+La api rastrea las tasas de referencia de divisas publicadas por el Banco Central Europeo ,está organizada en torno a rutas que designan la fecha solicitada o el intervalo de fechas. </li>
 
-## ¿Que es REST API?
+## Conversion
 Es un estilo arquitectónico para una  API que usa solicitudes HTTP para acceder y usar datos. Esos datos se pueden utilizar para los tipos de datos GET, PUT, POST y DELETE, que se refieren a la lectura, actualización, creación y eliminación de operaciones relacionadas con los recursos
 
 ### Nuestro proyecto 
