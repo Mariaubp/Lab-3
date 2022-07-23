@@ -21,7 +21,7 @@ fetch(`https://${host}/latest?amount=10&from=GBP&to=USD`)
 </code></pre> 
 En el ejemplo anterior convertimos 10 libras esterlinas a dólares estadounidenses.
 ### Nuestro proyecto 
-Creamos una pagina web ecomerce que utiliza la api de fake Store la cual ya tiene los productos y categorias,
+Creamos una pagina web ecomerce 
 
 <h2 class="code-line" data-line-start=30 data-line-end=31 ><a id="Funcionamiento_30"></a>Funcionamiento</h2>
 <p class="has-line-data" data-line-start="32" data-line-end="33">Una vez ya todo instalado, tenemos los codigo .py establecidos, necesarios para su funcionamiento,Para ejecutarlo lo hacemos ocn el comando.</p>
