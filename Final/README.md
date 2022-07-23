@@ -4,7 +4,7 @@ Integrantes :
 **, Constanza Gigli**
 
 -Link de la api :
-<a href="https://fakestoreapi.com/">https://fakestoreapi.com/</a><br>
+<a href="https://www.frankfurter.app/">https://www.frankfurter.app/</a><br>
 ## Fake Store API
  <img src="logoFake.png" width="120">    
 Es una REST API en línea gratuita que puede usar  datos pseudo-reales para sitio web de compras sin ejecutar ningún código del lado del servidor </li>
