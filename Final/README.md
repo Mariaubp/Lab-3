@@ -22,8 +22,11 @@ fetch(`https://${host}/latest?amount=10&from=GBP&to=USD`)
 En el ejemplo anterior convertimos 10 libras esterlinas a dólares estadounidenses.
 ### Nuestro proyecto 
 Es una página web que simula un carrito de compras.
+
 -Lo primero que vez son los productos disponibles (cargados en base de datos)
+
 -Podes ir agregando las diversas opciones de compra a nuestro carrito 
+
 -En la sección de My Cart, podes ver todo lo que deseamos comprar con su precio detallado,podemos ver el total de la “compra” y convertirlo a la moneda deseada, ya que los precios de la página están en dólares (uso de la API).
 
 <h2 class="code-line" data-line-start=30 data-line-end=31 ><a id="Funcionamiento_30"></a>Funcionamiento</h2>
