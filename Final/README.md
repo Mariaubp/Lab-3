@@ -15,17 +15,6 @@ Materia:
  <img src="logoFrank.png" width="120">    
 La api rastrea las tasas de referencia de divisas publicadas por el Banco Central Europeo ,está organizada en torno a rutas que designan la fecha solicitada o el intervalo de fechas. </li>
   
-## Conversion
-Puede convertir cualquier valor entre monedas utilizando los puntos finales en combinación con el amountparámetro.
- <pre><code>        
- const host = 'api.frankfurter.app';
-fetch(`https://${host}/latest?amount=10&from=GBP&to=USD`)
-  .then(resp => resp.json())
-  .then((data) => {
-    alert(`10 GBP = ${data.rates.USD} USD`);
-  });
-</code></pre> 
-En el ejemplo anterior convertimos 10 libras esterlinas a dólares estadounidenses.
 ### Nuestro proyecto 
 Es una página web que simula un carrito de compras.
 
