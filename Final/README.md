@@ -1,4 +1,4 @@
-# Sitio Web eCommerce con API y Base de Datos 
+# Pagina Web eCommerce con API y Base de Datos 
 Integrantes :
 **Florencia Fernandez**
 **, Constanza Gigli**
