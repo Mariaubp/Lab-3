@@ -2,6 +2,11 @@
 Integrantes :
 **Florencia Fernandez**
 **, Constanza Gigli**
+Profesor :
+**Gustavo Funes**
+
+Materia:
+**Laboratotio 3**
 
 -Link de la api :
 <a href="https://www.frankfurter.app/">https://www.frankfurter.app/</a><br>
