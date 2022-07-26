@@ -1,0 +1,86 @@
+img{
+    max-width: 100%;
+    height: auto;
+    background: radial-gradient(white 30%);
+}
+
+.fa-star,
+.fa-star-half{
+    color: yellowgreen;
+    padding: 3% 0;
+}
+
+#cart_count{
+    text-align: center;
+    padding: 0 0.9rem 0.1rem 0.9rem;
+    border-radius: 3rem;
+}
+
+.shopping-cart{
+    padding: 3% 0;
+}
+
+.cart-items + .cart-items{
+    padding: 2% 0;
+}
+
+.price-details h6{
+    padding: 3% 2%;
+}
+
+
+
+
+.wrapper{
+    background-color: #fff;
+    width: 450px;
+    padding: 10px;
+    position: relative;
+}
+h1{
+    position: absolute;
+    right: 31px;
+    font-size: 28px;
+    top: 19px;
+}
+.wrapper .currency_exchange{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.currency_exchange select{
+    width: 30%;
+    height: 40px;
+    font-size: 1em;
+    cursor: pointer;
+    background: #0cce06;
+    color: #000;
+    margin: .2em 0;
+    padding: 0 1em;
+    border: none;
+}
+.currency_exchange select::-webkit-scrollbar{
+    width: 0;
+}
+.currency_exchange input{
+    width: 95%;
+    height: 40px;
+    border: none;
+    outline: none;
+    font-size: 1em;
+    margin: .2em 0;
+    background: #000;
+    color: #fff;
+    padding: 0 1em;
+}
+.wrapper button{
+    width: 30%;
+    height: 40px;
+    background: #0cce06;
+    border: none;
+    outline: none;
+    font-size: 1.1em;
+    margin: .5em 0;
+    font-weight: 600;
+    cursor: pointer;
+}
