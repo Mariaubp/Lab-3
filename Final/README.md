@@ -12,7 +12,7 @@ Materia:
 -Link de la api :
 <a href="https://www.frankfurter.app/">https://www.frankfurter.app/</a><br>
 
-### Nuestro proyecto 
+## Nuestro proyecto 
 Es una página web que simula un carrito de compras.
 
 -Lo primero al visualizar la pagina son los productos disponibles (cargados en base de datos).
