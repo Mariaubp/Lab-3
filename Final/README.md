@@ -22,6 +22,7 @@ Es una página web que simula un carrito de compras.
 -En la sección de My Cart, se ve todo lo que deseamos comprar con su precio detallado, el total de la “compra” y convertirlo a la moneda deseada (uso de la API), ya que los precios de la página están en dólares .
 
 <h2 class="code-line" data-line-start=30 data-line-end=31 ><a id="Funcionamiento_30"></a>Funcionamiento</h2>
+ <img src="logoXampp.png" width="120">  
 <p class="has-line-data" data-line-start="32" data-line-end="33">Para poder probar  nuestra pagina vamos a usar a Xampp como servidor web de manera local.
 Con el Apache podemos mostrar nuestra pagina web.
 Con MySql podemos manejar el sistema de base de datos.
